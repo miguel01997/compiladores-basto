@@ -24,6 +24,7 @@ public class Analizador_Lexico {
     public static void main(String[] args) throws IOException {
         
         try {
+            int x;
             
            // if (args[0] == "-i"){
                 
